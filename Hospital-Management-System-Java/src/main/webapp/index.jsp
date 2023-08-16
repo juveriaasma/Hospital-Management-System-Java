@@ -34,15 +34,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img src="img/hos.jpg" class="d-block w-100" alt="..."
+				<img src="img/hos.jpeg" class="d-block w-100" alt="..."
 					height="500px">
 			</div>
 			<div class="carousel-item">
-				<img src="img/hos2.jpg" class="d-block w-100" alt="..."
+				<img src="img/hos2.jpeg" class="d-block w-100" alt="..."
 					height="500px">
 			</div>
 			<div class="carousel-item">
-				<img src="img/hos3.jpg" class="d-block w-100" alt="..."
+				<img src="img/hos3.jpeg" class="d-block w-100" alt="..."
 					height="500px">
 			</div>
 		</div>
@@ -119,7 +119,7 @@
 			<div class="col-md-3">
 				<div class="card paint-card">
 					<div class="card-body text-center">
-						<img src="img/doc1.jpg" width="250px" height="300px">
+						<img src="img/doc1.jpeg" width="250px" height="300px">
 						<p class="fw-bold fs-5">Samuani Simi</p>
 						<p class="fs-7">(CEO & Chairman)</p>
 					</div>
@@ -129,7 +129,7 @@
 			<div class="col-md-3">
 				<div class="card paint-card">
 					<div class="card-body text-center">
-						<img src="img/doc2.jpg" width="250px" height="300px">
+						<img src="img/doc2.jpeg" width="250px" height="300px">
 						<p class="fw-bold fs-5">Dr.Siva Kumar</p>
 						<p class="fs-7">(Chief Doctor)</p>
 					</div>
@@ -139,7 +139,7 @@
 			<div class="col-md-3">
 				<div class="card paint-card">
 					<div class="card-body text-center">
-						<img src="img/doc3.jpg" width="250px" height="300px">
+						<img src="img/doc3.jpeg" width="250px" height="300px">
 						<p class="fw-bold fs-5">Dr. Niuise Paule</p>
 						<p class="fs-7">(Chief Doctor)</p>
 					</div>
@@ -149,7 +149,7 @@
 			<div class="col-md-3">
 				<div class="card paint-card">
 					<div class="card-body text-center">
-						<img src="img/doc4.jpg" width="250px" height="300px">
+						<img src="img/doc4.jpeg" width="250px" height="300px">
 						<p class="fw-bold fs-5">Dr. Mathue Samuel</p>
 						<p class="fs-7">(Chief Doctor)</p>
 					</div>
